@@ -1,0 +1,2 @@
+# -geninAlanHesap
+www.patika.dev
